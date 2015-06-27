@@ -1,0 +1,3 @@
+[submodule "Physijs"]
+        path = Physijs
+        url = git@github.com:chandlerprall/Physijs.git
